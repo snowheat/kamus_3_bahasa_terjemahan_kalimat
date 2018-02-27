@@ -1,0 +1,14 @@
+//
+// Created by insan on 2/22/2018.
+//
+
+#ifndef TUGAS_5_KAMUS_3_BAHASA_PENERJEMAHKALIMAT_H
+#define TUGAS_5_KAMUS_3_BAHASA_PENERJEMAHKALIMAT_H
+
+
+class PenerjemahKalimat {
+
+};
+
+
+#endif //TUGAS_5_KAMUS_3_BAHASA_PENERJEMAHKALIMAT_H
